@@ -1,0 +1,41 @@
+#paragraph1 {
+	font-family: "Times New Roman";
+}
+
+#paragraph2 {
+	font-family: sans-serif;
+}
+
+.img50 {
+	width: 50px;
+	height: 50px;
+}
+
+#shadow {
+	width: 80px;
+	box-shadow: 5px 10px;
+}
+
+#background {
+	height: 80px;
+	width: 80px;
+	background-image: url('img.jpg');
+	background-repeat: none;
+}
+
+#margin20 {
+	margin: 20px;
+}
+
+#dotted {
+	width: 80px;
+	border-style: dotted;
+}
+
+#ball {
+	float: left;
+	height: 50px;
+	width: 50px;
+	border-radius: 20px;
+	background-color: black;
+}
